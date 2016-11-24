@@ -32,13 +32,3 @@ class Arena
     end
   end
 end
-
-  # def initialize(fighter_1, fighter_2)
-  #   if fighter_1.agility > fighter_2.agility
-  #     @fighter_1 = fighter_1
-  #     @fighter_2 = fighter_2
-  #   else
-  #     @fighter_2 = fighter_1
-  #     @fighter_1 = fighter_2
-  #   end
-  # end
